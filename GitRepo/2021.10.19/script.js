@@ -159,6 +159,7 @@ console.log(calculateValue(2, 3, "Addition"));
 console.log(calculateValue(2, 3, "Subtraction"));
 console.log(calculateValue(2, 3, "Multiplication"));
 console.log(calculateValue(2, 3, "Division"));
+}
 
 
 
