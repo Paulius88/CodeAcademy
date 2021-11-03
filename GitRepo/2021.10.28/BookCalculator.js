@@ -14,8 +14,8 @@ Book.prototype.getAge = function(){
 }
 
 let books = [
-    new Book('Catch-22', ' by  Joseph Heller', 1961),
-    new Book('Wabi Sabi', ' by Beth Kempton', 2018),
+    new Book('Catch-22', 'by  Joseph Heller', 1961),
+    new Book('Wabi Sabi', 'by Beth Kempton', 2018),
     new Book('A brief history of time', ' by Stephen Hawking', 1988),
 ]; 
 for(let a of books){
