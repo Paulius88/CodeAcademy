@@ -1,5 +1,5 @@
 let firstMovie = new Movie(
-    ' The Godfathe',
+    ' The Godfather',
     1972,
     'Francis Ford Coppola',
     6000000,
