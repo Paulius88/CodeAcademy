@@ -14,6 +14,6 @@ getIntroduction = function(){
 
 getProfit() {
 
-  return 'Movie made' + (this.income - this.budget) + ' US dollars';
+  return 'Movie made ' + (this.income - this.budget) + ' US dollars';
     }
 }
